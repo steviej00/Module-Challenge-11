@@ -29,24 +29,42 @@ I am working as growht anaylis for MercadoLibre. With over 200 million users, Me
 
 <img width="818" alt="image" src="https://user-images.githubusercontent.com/105945472/183481385-f49ccd4f-0e3e-48ff-89e6-210bb475a1f8.png"><img width="830" alt="image" src="https://user-images.githubusercontent.com/105945472/183481471-3e6253d0-49d9-4404-bc09-b01c203f3cc4.png">
 
+<img width="812" alt="image" src="https://user-images.githubusercontent.com/105945472/183481730-01f24752-e88e-45d6-8f1c-8fdf7e8fdd1f.png">
+
+<img width="503" alt="image" src="https://user-images.githubusercontent.com/105945472/183481916-3f56e6dd-fde2-4c98-9512-56a0504bc45d.png">
+
+<img width="546" alt="image" src="https://user-images.githubusercontent.com/105945472/183482021-c3f5a355-77b8-459f-a7de-568ca456135b.png">
+
 # Step 4: Create a Time Series Model with Prophet
+<img width="819" alt="image" src="https://user-images.githubusercontent.com/105945472/183482301-b15bbd31-23bc-4c02-b4ff-b1ae2cc77b0e.png">
 
+<img width="490" alt="image" src="https://user-images.githubusercontent.com/105945472/183482761-8757e58d-565a-4faa-8187-8a31e8d69d1d.png">
 
+<img width="616" alt="image" src="https://user-images.githubusercontent.com/105945472/183482875-9a4ed2d4-e34d-4a40-97b4-d2f187997c32.png">
 
+<img width="359" alt="image" src="https://user-images.githubusercontent.com/105945472/183483098-ec2044b2-af51-483b-aca9-8b4938c3f816.png">
 
 # Step 5 (Optional): Forecast Revenue by Using Time Series Models
+<img width="454" alt="image" src="https://user-images.githubusercontent.com/105945472/183483232-f4876e9c-de67-4ea7-961f-98db976c5234.png">
 
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/105945472/183483357-0f88bacc-affa-4e5b-a32b-81393089f094.png">
+
+<img width="514" alt="image" src="https://user-images.githubusercontent.com/105945472/183483470-bf341e49-a903-47c0-8940-c78e9d42b73f.png">
+
+<img width="390" alt="image" src="https://user-images.githubusercontent.com/105945472/183483546-a5cad2e0-0e25-45f6-9f6d-3e392b58353b.png">
+
+<img width="542" alt="image" src="https://user-images.githubusercontent.com/105945472/183483657-f514916b-af66-4e56-bb2b-5863b456a164.png">
 
 
 # Installs and import the required libraries and dependencies
 
-INSTALLS
+## INSTALLS
 !pip install pystan
 !pip install fbprophet
 !pip install hvplot
 !pip install holoviews
 
-IMPORTS
+## IMPORTS
 from pathlib import Path 
 import numpy as np
 import pandas as pd
