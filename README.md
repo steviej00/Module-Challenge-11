@@ -5,8 +5,9 @@
 I am working as growht anaylis for MercadoLibre. With over 200 million users, MercadoLibre is an attractive e-commerce site in Latin America. I've been assigned to analyiz the company's financial and user data in clever ways to make the company expand. With the ability to predict search traffic can translate into the capability to successfully trade the stock.
 
 # Step 1: Find Unusual Patterns in Hourly Google Search Traffic
+<img width="820" alt="image" src="https://user-images.githubusercontent.com/105945472/183479045-dc957ca3-7ba9-4a3d-9fc9-68b56e242773.png">
 
-
+<img width="820" alt="image" src="https://user-images.githubusercontent.com/105945472/183478965-a6ec030d-ee14-407d-a0ad-fd02f7656142.png">
 
 # Step 2: Mine the Search Traffic Data for Seasonality
 
